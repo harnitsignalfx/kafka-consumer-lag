@@ -1,1 +1,1 @@
-pykafka
+pykafka gcc
